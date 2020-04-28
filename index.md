@@ -9,3 +9,5 @@ layout: page
 
 I'm Jonah Choon Cai Ming. 
 
+Hit me up on <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank">Linkedin</a>
+
