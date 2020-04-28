@@ -113,13 +113,13 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Portfolio
-  url: /categories/
+  url: /portfolio/
 - title: Search
   url: /search/
 
 navigation_footer:
-- title: Created by Kenneth Soh
-  url: https://www.kennethsoh.me
+- title: Created by Jonah Choon
+  url: https://jonahchoon.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/jonah-choon-528584195
