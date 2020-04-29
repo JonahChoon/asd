@@ -33,32 +33,11 @@ layout: page
     opacity: 0.7;
   }
   
-  
-  <!-- TIME LINE -->
-  .timeline {
-  position: 10px;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: grey;
-  top: 1000px;
-  height: 1000px;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-
 .asd {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 50%;
+  width: 70%;
 }
 
 .asd::after {
@@ -69,26 +48,13 @@ layout: page
   right: -17px;
   background-color: grey;
   border: 4px solid #FF9F55;
-  top: 15px;
+  top: 40%;
   border-radius: 50%;
   z-index: 1;
 }
 
 .right {
-  left: 50%;
-}
-
-.right::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  left: 30px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent grey transparent transparent;
+  left: 10%;
 }
 
 .right::after {
