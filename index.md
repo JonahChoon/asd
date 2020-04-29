@@ -47,7 +47,7 @@ layout: page
   height: 25px;
   right: -17px;
   background-color: grey;
-  border: 4px solid #FF9F55;
+  border: 4px solid #05bf85;
   top: 50%;
   border-radius: 50%;
   z-index: 1;
