@@ -22,9 +22,9 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 <br>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-<!--<style>
+<style>
   .fa {
-    padding: 20px;
+    padding: 50px;
     font-size: 50px;
     width: 50px;
     text-align: center;
