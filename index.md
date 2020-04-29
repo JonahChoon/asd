@@ -37,7 +37,7 @@ layout: page
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 80%;
+  width: 70%;
 }
 
 .wordbox::after {
@@ -46,7 +46,7 @@ layout: page
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #05bf85;
+  background-color: grey;
   border: 4px solid #FF9F55;
   top: 40%;
   border-radius: 50%;
@@ -63,7 +63,7 @@ layout: page
 
 .zxc {
   padding: 20px 30px;
-  background-color: #05bf85;
+  background-color: grey;
   position: relative;
   border-radius: 6px;
   color: white;
