@@ -84,7 +84,7 @@ layout: page
 <div class="timeline">
   <div class="asd right">
     <div class="zxc">
-      <h2>2018 - Present</h2>
+      <h4>2018 - Present</h4>
       <p>Diploma in Cybersecurity & Digital Forenscs
         <br> 
         <i>Temasek Polytechnic</i>
@@ -94,7 +94,7 @@ layout: page
     
    <div class="asd right">
     <div class="zxc">
-      <h2>2016 - 2018</h2>
+      <h4>2016 - 2018</h4>
       <p>Certificate of Higher Nitec in Cyber & Network Security
         <br> 
         <i>ITE College East</i>
@@ -104,7 +104,7 @@ layout: page
     
     <div class="asd right">
     <div class="zxc">
-      <h2>2012 - 2015</h2>
+      <h4>2012 - 2015</h4>
       <p>General Certificate in Education Normal Acedemic Level
         <br> 
         <i>Pasir Ris Crest Secondary School</i>
