@@ -21,12 +21,41 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 <br>
 <br>
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></link>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<style>
+  .fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
 
-<button style="border: none; color: white; padding: 12px 16px; font-size: 16px; cursor: pointer;"><i class="fa fa-facebook"></i></button>
-<button style="border: none; color: white; padding: 12px 16px; font-size: 16px; cursor: pointer;"><i class="fa fa-instagram"></i></button>
-<button style="border: none; color: white; padding: 12px 16px; font-size: 16px; cursor: pointer;"><i class="fa fa-linkedin-square"></i></button>
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
 
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+</style>
+
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-linkedin"></a>
+<a href="#" class="fa fa-instagram"></a>
 
 Hit me up on <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank">Linkedin</a>
 
