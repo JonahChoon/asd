@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 ---
 title: About Me
 feature_text: |
@@ -18,5 +20,13 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
   </div>
 </div>
 <br>
+<br>
+<br>
+
+<button style="border: none; color: white; padding: 12px 16px; font-size: 16px; cursor: pointer;"><i class="fa fa-facebook"></i></button>
+<button style="border: none; color: white; padding: 12px 16px; font-size: 16px; cursor: pointer;"><i class="fa fa-instagram"></i></button>
+<button style="border: none; color: white; padding: 12px 16px; font-size: 16px; cursor: pointer;"><i class="fa fa-linkedin-square"></i></button>
+
+
 Hit me up on <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank">Linkedin</a>
 
