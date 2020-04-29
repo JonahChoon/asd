@@ -32,6 +32,98 @@ layout: page
   .fa:hover {
     opacity: 0.7;
   }
+  
+  
+  <!-- TIME LINE -->
+  .timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: grey;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: grey;
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.right {
+  left: 50%;
+}
+
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent grey transparent transparent;
+}
+
+.right::after {
+  left: -16px;
+}
+
+.content {
+  padding: 20px 30px;
+  background-color: grey;
+  position: relative;
+  border-radius: 6px;
+  color: white;
+}
+
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+  
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+  
+  .container::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+  }
+
+  .right {
+  left: 0%;
+  }
+}
 </style>
 
  <center>
@@ -45,4 +137,25 @@ layout: page
 ---
 <h1> Education </h1>
 
-
+<div class="timeline">
+  <div class="container right">
+    <div class="content">
+      <h2>2018 - Present</h2>
+      <p>Diploma in Cybersecurity & Digital Forenscs <br> <br> <i>Temasek Polytechnic</i></p>
+    </div>
+    
+    
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2016 - 2018</h2>
+      <p>Certificate of Higher Nitec in Cyber & Network Security <br> <br> <i> ITE College East </i> </p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2012 - 2015</h2>
+      <p>General Certificate in Education Normal Acedemic Level <br> <br> <i>Pasir Ris Crest Secondary School</i></p>
+    </div>
+  </div>
+</div>
