@@ -9,7 +9,7 @@ layout: page
 
 Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 <div class="row">
-  <div class="column">
+  <div class="column" style="float: left; width: 50%; padding: 5px;">
     <img src="/image/profile.png" alt="Profile Picture" width="250">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
