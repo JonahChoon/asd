@@ -44,5 +44,4 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 </center>
 
 ---
-title: Education
----
+<h1> Education </h1>
