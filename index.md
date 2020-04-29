@@ -90,6 +90,7 @@ layout: page
         <i>Temasek Polytechnic</i>
       </p>
     </div>
+   </div>
     
    <div class="asd right">
     <div class="zxc">
@@ -98,7 +99,8 @@ layout: page
         <br> 
         <i>ITE College East</i>
       </p>
-    </div>   
+    </div>
+  </div>
     
     <div class="asd right">
     <div class="zxc">
@@ -108,4 +110,5 @@ layout: page
         <i>Pasir Ris Crest Secondary School</i>
       </p>
     </div>   
+</div>
 </div>
