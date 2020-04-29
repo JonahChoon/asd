@@ -36,7 +36,7 @@ layout: page
   
   <!-- TIME LINE -->
   .timeline {
-  position: relative;
+  position: 10px;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -46,11 +46,13 @@ layout: page
   position: absolute;
   width: 6px;
   background-color: grey;
-  top: 0;
+  top: 1000px;
+  height: 1000px;
   bottom: 0;
   left: 50%;
   margin-left: -3px;
 }
+
 
 .asd {
   padding: 10px 40px;
