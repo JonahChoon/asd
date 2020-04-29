@@ -7,7 +7,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 layout: page
 ---
 
-I'm Jonah Choon Cai Ming. 
+### Hey There, I'm,
+
+# Jonah Choon
+
+#### Cybersecurity & Digital Forensics Student!
+
 
 Hit me up on <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank">Linkedin</a>
 
