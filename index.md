@@ -33,20 +33,6 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
   .fa:hover {
     opacity: 0.7;
   }
-  
- <!-- .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-  .fa-linkedin {
-    background: #007bb5;
-    color: white;
-  }
-  <!--.fa-instagram {
-    background: #125688;
-    color: white;
-  }
-
 </style>
 
  <center>
