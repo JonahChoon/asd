@@ -66,7 +66,7 @@ layout: page
   background-color: #e8fff8;
   position: relative;
   border-radius: 6px;
-  color: #8f8f8f;
+  color: #4a4949;
 }
 </style>
 
