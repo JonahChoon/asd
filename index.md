@@ -100,30 +100,6 @@ layout: page
   border-radius: 6px;
   color: white;
 }
-
-@media screen and (max-width: 600px) {
-  /* Place the timelime to the left */
-  .timeline::after {
-  left: 31px;
-  }
-  
-  .container {
-  width: 100%;
-  padding-left: 70px;
-  padding-right: 25px;
-  }
-  
-  .container::before {
-  left: 60px;
-  border: medium solid white;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
-  }
-
-  .right {
-  left: 0%;
-  }
-}
 </style>
 
  <center>
