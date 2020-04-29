@@ -54,8 +54,10 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 
 </style>
 
- <div>
-  <a href="https://www.facebook.com/XxJCCMxX" target="_blank" class="fa fa-facebook"></a>
-  <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank" class="fa fa-linkedin"></a>
-  <a href="https://www.instagram.com/o.o_jccm/" target="_blank" class="fa fa-instagram"></a>
- </div>
+ <center>
+  <div>
+    <a href="https://www.facebook.com/XxJCCMxX" target="_blank" class="fa fa-facebook"></a>
+    <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank" class="fa fa-linkedin"></a>
+    <a href="https://www.instagram.com/o.o_jccm/" target="_blank" class="fa fa-instagram"></a>
+  </div>
+</center>
