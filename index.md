@@ -33,14 +33,14 @@ layout: page
     opacity: 0.7;
   }
   
-.wordbox {
+.asd {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 70%;
+  width: 60%;
 }
 
-.wordbox::after {
+.asd::after {
   content: '';
   position: absolute;
   width: 25px;
