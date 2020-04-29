@@ -7,7 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 layout: page
 ---
 
-Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 <div class="row">
   <div class="column" style="float: left; width: 50%; padding: 5px;">
     <img src="/image/profile.png" alt="Profile Picture" width="250">
@@ -45,3 +44,5 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 
 ---
 <h1> Education </h1>
+
+
