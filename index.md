@@ -9,7 +9,9 @@ layout: page
 
 Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 
-![](./pic/pic1_50.png =100x20)
+![](./image/profile.png =100x20)
+
+<img src="/image/profile.png" alt="Profile Picture" width="200"/>
 
 Hit me up on <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank">Linkedin</a>
 
