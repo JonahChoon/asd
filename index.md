@@ -46,7 +46,7 @@ layout: page
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: grey;
+  background-color: #e8fff8;
   border: 4px solid #05bf85;
   top: 50%;
   border-radius: 50%;
@@ -63,10 +63,10 @@ layout: page
 
 .zxc {
   padding: 20px 30px;
-  background-color: grey;
+  background-color: #e8fff8;
   position: relative;
   border-radius: 6px;
-  color: white;
+  color: #8f8f8f;
 }
 </style>
 
