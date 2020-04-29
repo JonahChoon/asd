@@ -67,6 +67,7 @@ layout: page
   position: relative;
   border-radius: 6px;
   color: #4a4949;
+  border: 2px solid #4a4949;
 }
 </style>
 
