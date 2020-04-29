@@ -93,7 +93,7 @@ layout: page
   left: -16px;
 }
 
-.content {
+.zxc {
   padding: 20px 30px;
   background-color: grey;
   position: relative;
@@ -115,7 +115,7 @@ layout: page
 
 <div class="timeline">
   <div class="asd right">
-    <div class="content">
+    <div class="zxc">
       <h2>2018 - Present</h2>
       <p>Diploma in Cybersecurity & Digital Forenscs <br> <br> <i>Temasek Polytechnic</i></p>
     </div>
@@ -123,13 +123,13 @@ layout: page
     
   </div>
   <div class="asd right">
-    <div class="content">
+    <div class="zxc">
       <h2>2016 - 2018</h2>
       <p>Certificate of Higher Nitec in Cyber & Network Security <br> <br> <i> ITE College East </i> </p>
     </div>
   </div>
   <div class="asd right">
-    <div class="content">
+    <div class="zxc">
       <h2>2012 - 2015</h2>
       <p>General Certificate in Education Normal Acedemic Level <br> <br> <i>Pasir Ris Crest Secondary School</i></p>
     </div>
