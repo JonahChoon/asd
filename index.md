@@ -7,12 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 layout: page
 ---
 
-### Hey There, I'm,
+Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 
-# Jonah Choon
-
-#### Cybersecurity & Digital Forensics Student!
-
+![](./pic/pic1_50.png =100x20)
 
 Hit me up on <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank">Linkedin</a>
 
