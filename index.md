@@ -13,7 +13,7 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
     <img src="/image/profile.png" alt="Profile Picture" width="250">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into 
+    <p align="justify"> Energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. Aiming to gain more knowledge of Digital Forensics, Networking, Cyber Security and System Administration. Always finding new services to setup using linux and Windows Servers!
     </p>
   </div>
 </div>
