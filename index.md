@@ -12,7 +12,7 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
   <div class="column">
     <img src="/image/profile.png" alt="Profile Picture" width="250">
   </div>
-  <div class="column">
+  <div class="column" style="float: left; width: 50%; padding: 5px;">
     <p> This is just for testing </p>
   </div>
 </div>
