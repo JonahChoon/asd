@@ -48,7 +48,7 @@ layout: page
   right: -17px;
   background-color: #e8fff8;
   border: 4px solid #05bf85;
-  top: 50%;
+  top: 45%;
   border-radius: 50%;
   z-index: 1;
 }
