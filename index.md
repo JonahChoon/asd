@@ -45,9 +45,4 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 
 ---
 title: Education
-feature_text: |
-  ## Jonah Choon Cai Ming
-  Linux Enthusiast, Upcoming Computer Forensics Professional
-feature_image: "https://picsum.photos/1300/400?image=989"
-layout: page
 ---
