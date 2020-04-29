@@ -13,7 +13,7 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
     <img src="/image/profile.png" alt="Profile Picture" width="250">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <p align="justify"> Energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. Aiming to gain more knowledge of Digital Forensics, Networking, Cyber Security and System Administration. Always finding new services to setup using linux and Windows Servers!
+    <p align="justify" style="font-size: 40px;"> Energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. Aiming to gain more knowledge of Digital Forensics, Networking, Cyber Security and System Administration. Always finding new services to setup using linux and Windows Servers!
     </p>
   </div>
 </div>
@@ -58,7 +58,6 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
     background: #125688;
     color: white;
   }
-
 </style>
 
  <center>
