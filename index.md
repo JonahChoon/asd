@@ -24,25 +24,29 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <style>
   .fa {
-    padding: 50px;
-    font-size: 50px;
-    width: 50px;
+    padding: 20px;
+    font-size: 30px;
+    width: 80px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
     border-radius: 50%;
   }
+  
   .fa:hover {
     opacity: 0.7;
   }
+  
   .fa-facebook {
     background: #3B5998;
     color: white;
   }
+  
   .fa-linkedin {
     background: #007bb5;
     color: white;
   }
+  
   .fa-instagram {
     background: #125688;
     color: white;
