@@ -5,8 +5,6 @@ feature_text: |
   Linux Enthusiast, Upcoming Computer Forensics Professional
 feature_image: "https://picsum.photos/1300/400?image=989"
 layout: page
-
-title: Education
 ---
 
 Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
@@ -44,3 +42,12 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
     <a href="https://www.instagram.com/o.o_jccm/" target="_blank" class="fa fa-instagram"></a>
   </div>
 </center>
+
+---
+title: Education
+feature_text: |
+  ## Jonah Choon Cai Ming
+  Linux Enthusiast, Upcoming Computer Forensics Professional
+feature_image: "https://picsum.photos/1300/400?image=989"
+layout: page
+---
