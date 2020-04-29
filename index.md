@@ -33,20 +33,20 @@ layout: page
     opacity: 0.7;
   }
   
-.asd {
+.wordbox {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 70%;
+  width: 80%;
 }
 
-.asd::after {
+.wordbox::after {
   content: '';
   position: absolute;
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: grey;
+  background-color: #05bf85;
   border: 4px solid #FF9F55;
   top: 40%;
   border-radius: 50%;
@@ -63,7 +63,7 @@ layout: page
 
 .zxc {
   padding: 20px 30px;
-  background-color: grey;
+  background-color: #05bf85;
   position: relative;
   border-radius: 6px;
   color: white;
