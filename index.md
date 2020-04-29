@@ -13,7 +13,7 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
     <img src="/image/profile.png" alt="Profile Picture" width="250">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <p align="justify" style="font-size: 20px;"> Energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. Aiming to gain more knowledge in System Administration. Always finding new services to setup using linux (Redhat, Debian) and Windows Servers!
+    <p align="justify"> Energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. Aiming to gain more knowledge in System Administration. Always finding new services to setup using linux (Redhat, Debian) and Windows Servers!
     </p>
   </div>
 </div>
@@ -34,25 +34,23 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
     opacity: 0.7;
   }
   
-  .fa-facebook {
+ <!-- .fa-facebook {
     background: #3B5998;
     color: white;
   }
-  
   .fa-linkedin {
     background: #007bb5;
     color: white;
   }
-  
   <!--.fa-instagram {
     background: #125688;
     color: white;
   }
+
 </style>
 
  <center>
   <div>
-    <p> </p>
     <a href="https://www.facebook.com/XxJCCMxX" target="_blank" class="fa fa-facebook"></a>
     <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank" class="fa fa-linkedin"></a>
     <a href="https://www.instagram.com/o.o_jccm/" target="_blank" class="fa fa-instagram"></a>
