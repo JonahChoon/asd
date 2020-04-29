@@ -18,14 +18,11 @@ Hey There, I'm Jonah Choon a Cybersecurity & Digital Forensics Student!
   </div>
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<div>
+  <br />
+  <br />
+  <br />
+</div>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <style>
