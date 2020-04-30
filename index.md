@@ -205,4 +205,24 @@ layout: page
       </p>
     </div>
    </div>
+   
+    <div class="asd right">
+    <div class="zxc">
+      <h4>2017</h4>
+      <p> Certificate of Academic Achievement 
+        <br> 
+        <i>Higher Nitec in Cyber Network & Security</i>
+      </p>
+    </div>
+   </div>
+   
+       <div class="asd right">
+    <div class="zxc">
+      <h4>2016</h4>
+      <p> Service Star Award (Platinum)
+        <br> 
+        <i>Higher Nitec in Cyber Network & Security</i>
+      </p>
+    </div>
+   </div>
  </div>
