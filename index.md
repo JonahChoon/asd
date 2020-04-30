@@ -149,4 +149,29 @@ layout: page
   </div>
 
 ---
-<h2> WHAT DO I PUT :( </h2>
+<h2> Industry Certifications </h2>
+<div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
+      <p>Cisco Certified Entry Network Technician
+        <br> 
+        <i>February 2020 - August 2023</i>
+      </p>
+    </div>
+   </div>
+ </div>
+ 
+---
+<h2> Awards and Achievements  </h2>
+<div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
+      <p> Director's List 
+        <br> 
+        <i>Diploma in Cybersecurity & Digital Forensics</i>
+      </p>
+    </div>
+   </div>
+ </div>
