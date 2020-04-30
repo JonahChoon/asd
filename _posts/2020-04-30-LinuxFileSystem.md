@@ -7,7 +7,7 @@ categories:
 
 # Linux Filesystem Structure
 
-![Linux File System](/images/LinuxFileSystem.png)
+![Linux File System](/image/LinuxFileSystem.png)
 
 | File Directory | Description |
 | :-: |:-:|
