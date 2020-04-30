@@ -113,9 +113,11 @@ navigation_header:
   url: /
 - title: Tutorials
   url: /blog/
+- title: Contact
+  url: /contacts
 - title: Search
   url: /search/
-
+  
 navigation_footer:
 - title: Created by Jonah Choon
   url: https://jonahchoon.github.io
