@@ -6,9 +6,9 @@ categories:
 ---
 
 # Linux Filesystem Structure
-##### The Filesystem Hierarchy Standard (FHS) defines the structure of file systems on Linux and other UNIX-like operating systems. 
-<br>
-##### However, Linux file systems also contain some directories that aren’t yet defined by the standard.
+##### The Filesystem Hierarchy Standard (FHS) defines the structure of file systems on Linux and other UNIX-like operating systems. However, Linux file systems also contain some directories that aren’t yet defined by the standard.
+
+##### In Debian, ext4 is the default file system for new installations. GNU/Linux can be installed on any filesystem that supports some special constructs (file permissions, symbolic links and device files). Many file systems are journaling, meaning they are able to prevent data loss on system crashes or power failures
 
 ![Linux File System](/image/LinuxFileSystem.png)
 
