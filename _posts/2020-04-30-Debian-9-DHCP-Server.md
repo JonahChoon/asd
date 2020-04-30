@@ -4,7 +4,6 @@ categories:
 - Linux
 - Debian
 ---
-## Configuring DHCP Server in Debian
 Dynamic Host Configuration Protocol (DHCP) is a network management protocol where a DHCP server dynamically assigns an IP address and other network configuration parameters to each device on a network so they can communicate with other devices on a network. <br> In this post, I will be showing you how to configure a simple DHCP service on Debian 9 using ISC-DHCP-Server. 
 
 ##### **Prepare your machine**
