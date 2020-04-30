@@ -37,7 +37,7 @@ layout: page
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
-  width: 90%;
+  width: 100%;
 }
 
 .asd::after {
