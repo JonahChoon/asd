@@ -7,7 +7,7 @@ categories:
 
 # Linux Filesystem Structure
 ##### The Filesystem Hierarchy Standard (FHS) defines the structure of file systems on Linux and other UNIX-like operating systems. 
-<br> <br> 
+<br>
 ##### However, Linux file systems also contain some directories that aren’t yet defined by the standard.
 
 ![Linux File System](/image/LinuxFileSystem.png)
