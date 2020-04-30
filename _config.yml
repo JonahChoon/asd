@@ -68,7 +68,7 @@ collections:
     output: true
     description: "" # The post list page content
     feature_text: |
-      <h2> Welcome to my tutorial</h2>
+      <h2> Welcome To My Tutorials</h2>
       <p> Sharing My Linux Experiences </p>
     feature_image: "https://picsum.photos/2560/600?image=866"
 
