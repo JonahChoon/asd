@@ -127,4 +127,14 @@ layout: page
       </p>
     </div>
    </div>
+  
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2018 - Present</h4>
+      <p>Vice-Publicity Head
+        <br> 
+        <i>Cybersecurity & Digital Forensics ISACA Student Interest Group</i>
+      </p>
+    </div>
+   </div>
   </div>
