@@ -12,7 +12,7 @@ layout: page
     <img src="/image/profile.png" alt="Profile Picture" width="300">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <p align="justify"> I'm an energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic.<br><br>I'm aiming to gain more knowledge in System Administration and always finding new services to setup using linux (Redhat, Debian) and Windows Server!<br>
+    <p align="justify" style="font-size:22px"> I'm an energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic.<br><br>I'm aiming to gain more knowledge in System Administration and always finding new services to setup using linux (Redhat, Debian) and Windows Server!<br>
     </p>
   </div>
 </div>
