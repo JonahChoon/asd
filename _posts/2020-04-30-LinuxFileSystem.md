@@ -18,9 +18,6 @@ In Debian, ext4 is the default file system for new installations. GNU/Linux can 
 <br>
 <br>
 
----
-
-
 | File Directory | Description |
 | :-: |:-:|
 | / | Root Directory for the entire file system |
