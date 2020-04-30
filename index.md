@@ -137,4 +137,13 @@ layout: page
       </p>
     </div>
    </div>
+     <div class="asd right">
+    <div class="zxc">
+      <h4>2016 - 2018</h4>
+      <p>Executive Committee, Chairperson for Events and Activities
+        <br> 
+        <i>CE Student Ambassadors</i>
+      </p>
+    </div>
+   </div>
   </div>
