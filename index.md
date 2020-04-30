@@ -246,4 +246,14 @@ layout: page
       </p>
     </div>
    </div>
+   
+       <div class="asd right">
+    <div class="zxc">
+      <h4>2016</h4>
+      <p> ITE-Oracle Code Together Challenge
+        <br> 
+        <i>Higher Nitec in Cyber Network & Security</i>
+      </p>
+    </div>
+   </div>
  </div>
