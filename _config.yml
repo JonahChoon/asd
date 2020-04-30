@@ -64,7 +64,7 @@ timezone: Asia/Singapore # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: <h3> Tutorials </h3> # Needed for Siteleaf
+    title:  # Needed for Siteleaf
     output: true
     description: "" # The post list page content
     feature_text: |
