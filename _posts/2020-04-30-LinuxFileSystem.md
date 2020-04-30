@@ -1,5 +1,5 @@
 ---
-title: [1] Linux File System
+title: Linux File System
 categories:
 - Linux
 - Debian
