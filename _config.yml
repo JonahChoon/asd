@@ -113,8 +113,6 @@ navigation_header:
   url: /
 - title: Tutorials
   url: /blog/
-- title: Contact Me
-  url: /contacts.md
 - title: Search
   url: /search/
 
