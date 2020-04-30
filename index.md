@@ -160,7 +160,18 @@ layout: page
       </p>
     </div>
    </div>
+  
+    <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
+      <p>Red Hat Certified System Administrator (RHCSA)
+        <br> 
+        <i>April 2019 - April 2022</i>
+      </p>
+    </div>
+   </div>
  </div>
+ 
  
 ---
 <h2> Awards and Achievements  </h2>
