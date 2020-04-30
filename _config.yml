@@ -112,8 +112,6 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
-- title: Portfolio
-  url: /portfolio/
 - title: Search
   url: /search/
 
