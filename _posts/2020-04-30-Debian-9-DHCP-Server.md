@@ -17,7 +17,7 @@ The next step is to install the service on your machine.<br>
 Configure the DHCP Server to listen on a particular interface for DHCP Discover messages. <br>
 `vi /etc/default/isc-dhcp-server`
 
-I configured it to listen on Ethernet0 <br>
+I configured it to listen on Ethernet zero <br>
 `v4="eth0"` 
 
 ##### **Configure DHCP Service**
