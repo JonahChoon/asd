@@ -10,7 +10,7 @@ categories:
 ![Linux File System](/image/LinuxFileSystem.png)
 
 | File Directory | Description |
-| :-: |:-:|
+
 | / | Root Directory for the entire file system |
 | /bin/ | User Binaries |
 | /opt/ | Optional Add-On Apps |
