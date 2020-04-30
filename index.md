@@ -12,7 +12,7 @@ layout: page
     <img src="/image/profile.png" alt="Profile Picture" width="250">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <p align="justify"> Energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic. Aiming to gain more knowledge in System Administration. Always finding new services to setup using linux (Redhat, Debian) and Windows Server!
+    <p align="justify"> I'm an energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic.<br>I'm aiming to gain more knowledge in System Administration and always finding new services to setup using linux (Redhat, Debian) and Windows Server!
     </p>
   </div>
 </div>
@@ -80,7 +80,7 @@ layout: page
 </center>
 
 ---
-<h1> Education </h1>
+<h2> Education </h2>
 
 <div class="timeline">
   <div class="asd right">
@@ -115,4 +115,16 @@ layout: page
 </div>
 
 ---
-<h1> idk what to put alr </h1>
+<h2> Co-Curricular Activities </h2>
+
+<div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2018 - Present</h4>
+      <p>Worldskills Singapore 2020 Competitor
+        <br> 
+        <i>IT Network Systems Administration</i>
+      </p>
+    </div>
+   </div>
+  </div>
