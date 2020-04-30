@@ -163,7 +163,7 @@ layout: page
   
     <div class="asd right">
     <div class="zxc">
-      <h4>2020</h4>
+      <h4>2019</h4>
       <p>Red Hat Certified System Administrator (RHCSA)
         <br> 
         <i>April 2019 - April 2022</i>
@@ -182,6 +182,26 @@ layout: page
       <p> Director's List 
         <br> 
         <i>Diploma in Cybersecurity & Digital Forensics</i>
+      </p>
+    </div>
+   </div>
+  
+    <div class="asd right">
+    <div class="zxc">
+      <h4>2018</h4>
+      <p> Skills Award 
+        <br> 
+        <i>Higher Nitec in Cyber Network & Security</i>
+      </p>
+    </div>
+   </div>
+   
+     <div class="asd right">
+    <div class="zxc">
+      <h4>2017 & 2018</h4>
+      <p> Edusave Award for Good Leadership and Service 
+        <br> 
+        <i>Higher Nitec in Cyber Network & Security</i>
       </p>
     </div>
    </div>
