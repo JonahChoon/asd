@@ -86,7 +86,7 @@ layout: page
   <div class="asd right">
     <div class="zxc">
       <h4>2018 - Present</h4>
-      <p>Diploma in Cybersecurity & Digital Forenscs
+      <p>Diploma in Cybersecurity & Digital Forensics
         <br> 
         <i>Temasek Polytechnic</i>
       </p>
