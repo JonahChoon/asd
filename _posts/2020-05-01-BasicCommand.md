@@ -16,7 +16,6 @@ Sometimes, commands are also referred as "programs" since whenever you run a com
 
 <h4><u> Navigation </u></h4>
 
-| :-: | :- |
 | ```pwd``` | Print name of the current / working directory |
 | ```ls [path]``` | List directory content |
 | ```cd [path]``` | Change directory |
