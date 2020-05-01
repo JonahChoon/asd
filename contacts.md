@@ -1,6 +1,12 @@
 ---
 title: Contact Me
+feature_text: |
+  ## Jonah Choon Cai Ming
+  Linux Enthusiast, Upcoming Computer Forensics Professional
+feature_image: "https://i.picsum.photos/id/990/1300/400.jpg"
+layout: page
 ---
+
 <center>
   <nav class="nav  nav--social">
     <a href="https://www.linkedin.com/in/jonah-choon-528584195">
