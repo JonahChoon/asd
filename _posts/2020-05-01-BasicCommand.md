@@ -15,16 +15,14 @@ Sometimes, commands are also referred as "programs" since whenever you run a com
 
 <h4><u> Navigation </u></h4>
 
-| :-: | :- |
+| :-: | :-: |
 | ```pwd``` | Print name of the current / working directory |
 | ```ls [path]``` | List directory content |
 | ```cd [path]``` | Change directory |
 
-<br>
-
 <h4><u> Help </u></h4>
 
-| :-: | :- |
+| :-: | :-: |
 | ```man [command]``` | Display summary information of a command |
 | ```command  --help``` | Display short summary information of a command |
 | ```command  -h``` | Display short summary information of a command |
