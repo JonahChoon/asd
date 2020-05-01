@@ -67,16 +67,68 @@ Sometimes, commands are also referred as "programs" since whenever you run a com
 | ```wc [path]``` | Print lines, word and byte counts |
 | ```diff --color [file 1] [file 2]``` | Compare two text file line by line |
 
+<br>
 
+<h4><u> Administration </u></h4>
 
+| Command | Description |
+| :-: | :-: |
+| ```sudo [command[``` | Execute a command as the superuser |
+| ```su [username]``` | Change User |
+| ```su``` | Login to superuser |
 
+<br>
 
+<h4><u> Process </u></h4>
 
+| Command | Description |
+| :-: | :-: |
+| ```ps``` | Display the running processes of the current terminal |
+| ```ps -e``` | Display all running processes |
+| ```kill``` | Sends a kill signal to the process |
+| ```top``` | Real-time viewer of the processes |
 
+<br>
 
+<h4><u> File Permissions and Ownerships </u></h4>
 
+| Command | Description |
+| :-: | :-: |
+| ```chmod``` | Change file mode bits |
+| ```umask``` | Set file mode creation mask |
+| ```chown``` | Change file owner and group |
+| ```chgrp``` | Change group ownership |
+| ```setfacl``` | Set file special permission |
+| ```getfacl``` | Get file permission |
 
+<br>
 
+<h4><u> Disk and Devices </u></h4>
 
+| Command | Description |
+| :-: | :-: |
+| ```lsblk``` | List block devices |
+| ```df -H``` | Report file system disk space usage |
 
+<br>
 
+<h4><u> File Manipulation </u></h4>
+
+| Command | Description |
+| :-: | :-: |
+| ```cp [source file] [destination file]``` | Copy a File |
+| ```mv [source file] [destination file]``` | Move or rename files and direcotry |
+| ```mkdir [path]``` | Make empty directories |
+| ```rm [file]``` | Remove a file |
+| ```rmdir [path]``` | Remove a directory |
+| ```ln -s [source file] [destination file]``` | Create a symbolic link |
+
+<br>
+
+<h4><u> Redirection </u></h4>
+
+| Command | Description |
+| :-: | :-: |
+| ```[command 1] | [command 2]``` | Redirect output of command1 to command2 |
+| ```[command] > [file]``` | Redirect output of the command to a file |
+| ```[command] >> [file]``` | Append output of the command to a file |
