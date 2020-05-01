@@ -12,7 +12,6 @@ So, basically, a shell is a program that receives commands from the user and giv
 <br>
 Sometimes, commands are also referred as "programs" since whenever you run a command, it's the corresponding program code, written for the command, which is being executed. Let's learn the must know Linux commands.
 <br>
-<br>
 
 <h4><u> Navigation </u></h4>
 
