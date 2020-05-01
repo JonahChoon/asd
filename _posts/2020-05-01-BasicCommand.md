@@ -14,21 +14,9 @@ Sometimes, commands are also referred as "programs" since whenever you run a com
 <br>
 <br>
 
-| File Directory | Description |
+#### Navigation
+| Command | Description |
 | :-: |:-:|
-| / | Root Directory for the entire file system |
-| /bin/ | User Binaries |
-| /opt/ | Optional Add-On Apps |
-| /boot/ | Boot Loader Files |
-| /root/ | Home Directory for the 'root' user |
-| /dev/ | Device Files |
-| /sbin/ | System Binaries |
-| /etc/ | Configuration Files |
-| /srv/ | Service Data |
-| /home/ | Home Directories |
-| /tmp/ | Temporary Files |
-| /lib/ | System Libraries |
-| /usr/ | User Programs |
-| /media/ | Removable Device |
-| /var/ | Variables Files |
-| /mnt/ | Mount Directory |
+| ```pwd``` | Print name of the current / working directory |
+| ```ls [path]``` | List directory content |
+| ```cd [path]``` | Change directory |
