@@ -1,8 +1,7 @@
 ---
 title: Contact Me
 feature_text: |
-  ## Jonah Choon Cai Ming
-  Linux Enthusiast, Upcoming Computer Forensics Professional
+  ## I'd love to hear from you!
 feature_image: "https://i.picsum.photos/id/990/1300/400.jpg"
 layout: page
 ---
