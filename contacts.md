@@ -1,5 +1,6 @@
-## Hello World!
-
+---
+title: Contact Me
+---
 <center>
   <nav class="nav  nav--social">
     <a href="https://www.linkedin.com/in/jonah-choon-528584195">
