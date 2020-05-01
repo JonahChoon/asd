@@ -14,7 +14,7 @@ Sometimes, commands are also referred as "programs" since whenever you run a com
 <br>
 <br>
 
-<u> #### Navigation </u>
+<h4><u> Navigation </u></h4>
 
 | Command | Description |
 | :-: | :- |
