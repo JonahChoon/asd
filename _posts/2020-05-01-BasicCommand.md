@@ -15,9 +15,10 @@ Sometimes, commands are also referred as "programs" since whenever you run a com
 <br>
 
 ##### Navigation
+<br>
 
 | Command | Description |
-| :-: |:-:|
+| :-: | :- |
 | ```pwd``` | Print name of the current / working directory |
 | ```ls [path]``` | List directory content |
 | ```cd [path]``` | Change directory |
