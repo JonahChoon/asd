@@ -73,9 +73,9 @@ layout: page
 
  <center>
   <div>
-    <a href="https://www.facebook.com/XxJCCMxX" target="_blank" class="fa fa-facebook"></a>
+    <a href="https://www.facebook.com/HEHE" target="_blank" class="fa fa-facebook"></a>
     <a href="https://www.linkedin.com/in/jonah-choon-528584195" target="_blank" class="fa fa-linkedin"></a>
-    <a href="https://www.instagram.com/o.o_jccm/" target="_blank" class="fa fa-instagram"></a>
+    <a href="https://www.instagram.com/HEHE/" target="_blank" class="fa fa-instagram"></a>
   </div>
 </center>
 
@@ -130,7 +130,7 @@ layout: page
   
   <div class="asd right">
     <div class="zxc">
-      <h4>2018 - Present</h4>
+      <h4>2018 - 2020</h4>
       <p>Vice-Publicity Head
         <br> 
         <i>Cybersecurity & Digital Forensics ISACA Student Interest Group</i>
