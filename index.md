@@ -204,8 +204,7 @@ layout: page
     </div>
    </div>
  </div>
- 
- 
+  
 ---
 <h2> Awards and Achievements  </h2>
 <div class="timeline">
@@ -290,6 +289,4 @@ layout: page
     </div>
    </div>
  </div>
-
-
 ---
