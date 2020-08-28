@@ -161,7 +161,6 @@ layout: page
     </div>
    </div>
 
-<div class="timeline">
   <div class="asd right">
     <div class="zxc">
       <h4>2020</h4>
@@ -172,7 +171,6 @@ layout: page
     </div>
    </div>
 
-  <div class="timeline">
   <div class="asd right">
     <div class="zxc">
       <h4>2020</h4>
@@ -183,7 +181,6 @@ layout: page
     </div>
    </div>
   
-<div class="timeline">
   <div class="asd right">
     <div class="zxc">
       <h4>2020</h4>
@@ -194,7 +191,6 @@ layout: page
     </div>
    </div>
   
-  <div class="timeline">
     <div class="asd right">
     <div class="zxc">
       <h4>2019</h4>
