@@ -154,6 +154,50 @@ layout: page
   <div class="asd right">
     <div class="zxc">
       <h4>2020</h4>
+      <p>Linux Professional Institute Certification (LPIC-1)
+        <br> 
+        <i>In Progress</i>
+      </p>
+    </div>
+   </div>
+
+<div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
+      <p>Certified Ethical Hacker (CEH)
+        <br> 
+        <i>In Progress</i>
+      </p>
+    </div>
+   </div>
+  
+<div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
+      <p>Certified Ethical Hacker (CEH)
+        <br> 
+        <i>In Progress</i>
+      </p>
+    </div>
+   </div>
+  
+  <div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
+      <p>Certified Cisco Network Associate (CCNA)
+        <br> 
+        <i>In Progress</i>
+      </p>
+    </div>
+   </div>
+  
+<div class="timeline">
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2020</h4>
       <p>Cisco Certified Entry Network Technician (CCENT)
         <br> 
         <i>February 2020 - August 2023</i>
