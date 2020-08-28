@@ -171,18 +171,7 @@ layout: page
       </p>
     </div>
    </div>
-  
-<div class="timeline">
-  <div class="asd right">
-    <div class="zxc">
-      <h4>2020</h4>
-      <p>Certified Ethical Hacker (CEH)
-        <br> 
-        <i>In Progress</i>
-      </p>
-    </div>
-   </div>
-  
+
   <div class="timeline">
   <div class="asd right">
     <div class="zxc">
