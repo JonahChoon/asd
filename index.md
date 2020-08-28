@@ -194,6 +194,7 @@ layout: page
     </div>
    </div>
   
+  <div class="timeline">
     <div class="asd right">
     <div class="zxc">
       <h4>2019</h4>
@@ -204,7 +205,7 @@ layout: page
     </div>
    </div>
  </div>
-  
+
 ---
 <h2> Awards and Achievements  </h2>
 <div class="timeline">
