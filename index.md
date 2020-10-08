@@ -12,7 +12,7 @@ layout: page
     <img src="/image/profile.png" alt="Profile Picture" width="300">
   </div>
   <div class="column" style="float: left; width: 50%; padding: 5px;">
-    <p align="justify" style="font-size:20px"> I'm an energetic and passionate student working towards a Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic.<br><br>I'm aiming to gain more knowledge in System Administration and always finding new services to setup using linux (Redhat, Debian) and Windows Server!<br>
+    <p align="justify" style="font-size:20px"> I'm an energetic and passionate student working towards Diploma in Cybersecurity & Digital Forensics at Temasek Polytechnic.<br><br>I'm aiming to gain more knowledge in System Administration and finding new services to setup using linux operating system (Redhat, Debian) and Windows Server!<br>
     </p>
   </div>
 </div>
@@ -106,7 +106,7 @@ layout: page
     <div class="asd right">
     <div class="zxc">
       <h4>2012 - 2015</h4>
-      <p>General Certificate in Education Normal Acedemic Level
+      <p>General Certificate in Education Normal Academic Level
         <br> 
         <i>Pasir Ris Crest Secondary School</i>
       </p>
@@ -120,7 +120,7 @@ layout: page
 <div class="timeline">
   <div class="asd right">
     <div class="zxc">
-      <h4>2018 - Present</h4>
+      <h4>2018 - 2020</h4>
       <p>Worldskills Singapore 2020 Competitor
         <br> 
         <i>IT Network Systems Administration</i>
@@ -142,7 +142,7 @@ layout: page
       <h4>2016 - 2018</h4>
       <p>Executive Committee, Chairperson for Events and Activities
         <br> 
-        <i>CE Student Ambassadors</i>
+        <i>CE Student Ambassador</i>
       </p>
     </div>
    </div>
