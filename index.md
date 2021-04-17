@@ -85,7 +85,7 @@ layout: page
 <div class="timeline">
   <div class="asd right">
     <div class="zxc">
-      <h4>2018 - Present</h4>
+      <h4>2018 - 2021</h4>
       <p>Diploma in Cybersecurity & Digital Forensics
         <br> 
         <i>Temasek Polytechnic</i>
@@ -153,8 +153,8 @@ layout: page
 <div class="timeline">
   <div class="asd right">
     <div class="zxc">
-      <h4>2020</h4>
-      <p>Linux Professional Institute Certification (LPIC-1)
+      <h4>2021</h4>
+      <p>Huawei Certified ICT Associate Routing and Switching (HCIA-R&S)
         <br> 
         <i>In Progress</i>
       </p>
@@ -163,17 +163,17 @@ layout: page
 
   <div class="asd right">
     <div class="zxc">
-      <h4>2020</h4>
+      <h4>2021</h4>
       <p>Certified Ethical Hacker (CEH)
         <br> 
-        <i>In Progress</i>
+        <i>March 2021 - March 2024</i>
       </p>
     </div>
    </div>
 
   <div class="asd right">
     <div class="zxc">
-      <h4>2020</h4>
+      <h4>2021</h4>
       <p>Certified Cisco Network Associate (CCNA)
         <br> 
         <i>In Progress</i>
