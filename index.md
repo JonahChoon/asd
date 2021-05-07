@@ -151,12 +151,23 @@ layout: page
 ---
 <h2> Industry Certifications </h2>
 <div class="timeline">
+
+  <div class="asd right">
+    <div class="zxc">
+      <h4>2021</h4>
+      <p>Certified Cisco Network Associate (CCNA)
+        <br> 
+        <i>In Progress</i>
+      </p>
+    </div>
+   </div>
+    
   <div class="asd right">
     <div class="zxc">
       <h4>2021</h4>
       <p>Huawei Certified ICT Associate Routing and Switching (HCIA-R&S)
         <br> 
-        <i>In Progress</i>
+        <i>May 2021 - May 2024</i>
       </p>
     </div>
    </div>
@@ -171,16 +182,6 @@ layout: page
     </div>
    </div>
 
-  <div class="asd right">
-    <div class="zxc">
-      <h4>2021</h4>
-      <p>Certified Cisco Network Associate (CCNA)
-        <br> 
-        <i>In Progress</i>
-      </p>
-    </div>
-   </div>
-  
   <div class="asd right">
     <div class="zxc">
       <h4>2020</h4>
