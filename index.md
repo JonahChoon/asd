@@ -157,7 +157,7 @@ layout: page
       <h4>2021</h4>
       <p>Certified Cisco Network Associate (CCNA)
         <br> 
-        <i>In Progress</i>
+        <i>[In Progress]</i>
       </p>
     </div>
    </div>
