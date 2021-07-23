@@ -121,7 +121,7 @@ layout: page
   <div class="asd right">
     <div class="zxc">
       <h4>2018 - 2020</h4>
-      <p>Worldskills Singapore 2020 Competitor
+      <p>Worldskills Singapore 2020 Bronze Medalist
         <br> 
         <i>IT Network Systems Administration</i>
       </p>
